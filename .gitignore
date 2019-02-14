@@ -1,0 +1,6 @@
+../classes
+../lib
+/jar
+*.class
+*.jar
+
